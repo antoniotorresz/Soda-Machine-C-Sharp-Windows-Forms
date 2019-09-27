@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expendedora", "Expendedora\Expendedora.csproj", "{EC3C6385-8A92-4799-959D-2DCFF4DF96CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3C6385-8A92-4799-959D-2DCFF4DF96CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3C6385-8A92-4799-959D-2DCFF4DF96CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3C6385-8A92-4799-959D-2DCFF4DF96CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3C6385-8A92-4799-959D-2DCFF4DF96CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {540A1CA5-F7B6-46E1-B2FC-493D1045E72E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\bin\Debug\Expendedora.exe.config
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\bin\Debug\Expendedora.exe
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\bin\Debug\Expendedora.pdb
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.Properties.Resources.resources
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.exe
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.pdb
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\bin\Debug\uz-Arab-AF\Expendedora.resources.dll
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\uz-Arab-AF\Expendedora.resources.dll
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.Expendedora.resources
+C:\Users\Antonio\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.Expendedora.uz-Arab-AF.resources
